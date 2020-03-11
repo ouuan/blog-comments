@@ -1,4 +1,4 @@
-# hexo-blog-utterances
+# blog-utterances
 
 用作 utterances 的 issues 存放。
 
